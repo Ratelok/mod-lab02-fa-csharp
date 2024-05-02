@@ -6,3 +6,14 @@
 /Users/anton/Desktop/NET/mod-task02-fa/fa/obj/Debug/netstandard2.0/fa.AssemblyInfo.cs
 /Users/anton/Desktop/NET/mod-task02-fa/fa/obj/Debug/netstandard2.0/fa.dll
 /Users/anton/Desktop/NET/mod-task02-fa/fa/obj/Debug/netstandard2.0/fa.pdb
+C:\Users\nfedorov\Desktop\UNN\Shaizy222\mod-lab02-fa-csharp\fa\bin\Debug\netstandard2.0\fa.deps.json
+C:\Users\nfedorov\Desktop\UNN\Shaizy222\mod-lab02-fa-csharp\fa\bin\Debug\netstandard2.0\fa.dll
+C:\Users\nfedorov\Desktop\UNN\Shaizy222\mod-lab02-fa-csharp\fa\bin\Debug\netstandard2.0\fa.pdb
+C:\Users\nfedorov\Desktop\UNN\Shaizy222\mod-lab02-fa-csharp\fa\obj\Debug\netstandard2.0\fa.csproj.AssemblyReference.cache
+C:\Users\nfedorov\Desktop\UNN\Shaizy222\mod-lab02-fa-csharp\fa\obj\Debug\netstandard2.0\fa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfedorov\Desktop\UNN\Shaizy222\mod-lab02-fa-csharp\fa\obj\Debug\netstandard2.0\fa.AssemblyInfoInputs.cache
+C:\Users\nfedorov\Desktop\UNN\Shaizy222\mod-lab02-fa-csharp\fa\obj\Debug\netstandard2.0\fa.AssemblyInfo.cs
+C:\Users\nfedorov\Desktop\UNN\Shaizy222\mod-lab02-fa-csharp\fa\obj\Debug\netstandard2.0\fa.csproj.CoreCompileInputs.cache
+C:\Users\nfedorov\Desktop\UNN\Shaizy222\mod-lab02-fa-csharp\fa\obj\Debug\netstandard2.0\fa.sourcelink.json
+C:\Users\nfedorov\Desktop\UNN\Shaizy222\mod-lab02-fa-csharp\fa\obj\Debug\netstandard2.0\fa.dll
+C:\Users\nfedorov\Desktop\UNN\Shaizy222\mod-lab02-fa-csharp\fa\obj\Debug\netstandard2.0\fa.pdb
